@@ -2,7 +2,6 @@ class WS {
 	constructor(game,addr){
 		this.game = game
 		this.addr = addr
-		this.connect()
 	}
 
 	connect(){
